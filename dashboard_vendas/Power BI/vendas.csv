@@ -1,0 +1,401 @@
+data_venda,vendedor,produto,regiao,segmento,quantidade,valor_unitario,valor_total,status
+2024-01-01,Fernanda Reis,Treinamento Power BI,Curitiba,Financeiro,3,3243.82,9731.47,Cancelado
+2024-01-04,Marcos Alves,Treinamento Power BI,Curitiba,Financeiro,2,3393.99,6787.99,Pago
+2024-01-06,Carlos Lima,Suporte Mensal,São Paulo,Indústria,2,2157.45,4314.9,Pendente
+2024-01-08,Marcos Alves,Suporte Mensal,São Paulo,Indústria,2,1634.32,3268.65,Pago
+2024-01-08,Marcos Alves,Implantação Power BI,Campinas,Indústria,2,12771.72,25543.44,Pago
+2024-01-09,Fernanda Reis,Consultoria BI,Curitiba,Financeiro,2,4160.83,8321.65,Pago
+2024-01-10,Carlos Lima,Treinamento Power BI,Curitiba,Educação,3,3351.12,10053.36,Cancelado
+2024-01-10,Fernanda Reis,Consultoria BI,Belo Horizonte,Indústria,1,5238.32,5238.32,Pago
+2024-01-11,Marcos Alves,Dashboard Personalizado,São Paulo,Agronegócio,2,9930.7,19861.39,Pendente
+2024-01-14,Marcos Alves,Consultoria BI,Curitiba,Financeiro,1,4594.57,4594.57,Pago
+2024-01-14,Carlos Lima,Consultoria BI,Campinas,Educação,1,4278.21,4278.21,Cancelado
+2024-01-14,Juliana Costa,Treinamento Power BI,Rio de Janeiro,Saúde,3,3472.95,10418.86,Pendente
+2024-01-15,Fernanda Reis,Dashboard Personalizado,Curitiba,Financeiro,2,9972.61,19945.22,Pago
+2024-01-16,Carlos Lima,Consultoria BI,Curitiba,Educação,1,5142.59,5142.59,Cancelado
+2024-01-19,Juliana Costa,Treinamento Power BI,Rio de Janeiro,Indústria,1,2815.32,2815.32,Pendente
+2024-01-19,Ana Souza,Suporte Mensal,Curitiba,Agronegócio,1,1760.96,1760.96,Pago
+2024-01-20,Carlos Lima,Dashboard Personalizado,Curitiba,Financeiro,2,9070.17,18140.33,Pago
+2024-01-20,Fernanda Reis,Consultoria BI,Belo Horizonte,Varejo,3,3852.82,11558.47,Pago
+2024-01-21,Ana Souza,Suporte Mensal,Porto Alegre,Agronegócio,3,1904.45,5713.35,Cancelado
+2024-01-21,Carlos Lima,Consultoria BI,Curitiba,Varejo,1,4970.54,4970.54,Cancelado
+2024-01-22,Ana Souza,Treinamento Power BI,Belo Horizonte,Financeiro,3,3339.27,10017.81,Pago
+2024-01-22,Fernanda Reis,Treinamento Power BI,São Paulo,Saúde,3,2683.91,8051.73,Pago
+2024-01-22,Ana Souza,Dashboard Personalizado,Porto Alegre,Varejo,3,8933.97,26801.9,Pago
+2024-01-22,Ana Souza,Consultoria BI,São Paulo,Agronegócio,2,5077.75,10155.51,Cancelado
+2024-01-22,Juliana Costa,Dashboard Personalizado,Campinas,Indústria,3,8680.83,26042.48,Pago
+2024-01-23,Marcos Alves,Dashboard Personalizado,Curitiba,Educação,1,10592.72,10592.72,Pago
+2024-01-24,Carlos Lima,Consultoria BI,Campinas,Saúde,3,3907.8,11723.41,Pendente
+2024-01-24,Marcos Alves,Implantação Power BI,Rio de Janeiro,Varejo,2,14342.9,28685.79,Pendente
+2024-01-26,Carlos Lima,Treinamento Power BI,Curitiba,Educação,1,3193.07,3193.07,Pago
+2024-01-26,Marcos Alves,Suporte Mensal,Rio de Janeiro,Educação,1,1716.32,1716.32,Pago
+2024-01-28,Ana Souza,Consultoria BI,Porto Alegre,Agronegócio,1,4373.3,4373.3,Pago
+2024-01-29,Juliana Costa,Consultoria BI,Curitiba,Saúde,1,4615.15,4615.15,Pago
+2024-01-29,Juliana Costa,Treinamento Power BI,São Paulo,Saúde,2,2794.58,5589.16,Pendente
+2024-01-30,Juliana Costa,Suporte Mensal,São Paulo,Agronegócio,1,2184.71,2184.71,Pago
+2024-02-01,Juliana Costa,Implantação Power BI,Curitiba,Educação,3,12112.82,36338.47,Pago
+2024-02-02,Ana Souza,Suporte Mensal,São Paulo,Financeiro,2,2031.65,4063.3,Pago
+2024-02-03,Marcos Alves,Dashboard Personalizado,São Paulo,Educação,1,10151.48,10151.48,Pago
+2024-02-04,Fernanda Reis,Consultoria BI,São Paulo,Educação,2,3942.09,7884.19,Pago
+2024-02-04,Marcos Alves,Dashboard Personalizado,Campinas,Saúde,3,10335.54,31006.62,Pago
+2024-02-05,Fernanda Reis,Implantação Power BI,Belo Horizonte,Indústria,3,14709.59,44128.78,Pendente
+2024-02-07,Carlos Lima,Suporte Mensal,Rio de Janeiro,Saúde,2,2088.1,4176.19,Pago
+2024-02-08,Ana Souza,Implantação Power BI,Porto Alegre,Financeiro,2,11820.55,23641.11,Cancelado
+2024-02-10,Ana Souza,Implantação Power BI,Porto Alegre,Saúde,3,13598.75,40796.25,Pendente
+2024-02-13,Marcos Alves,Consultoria BI,São Paulo,Agronegócio,1,4998.53,4998.53,Pago
+2024-02-13,Carlos Lima,Suporte Mensal,São Paulo,Indústria,2,2223.81,4447.61,Pendente
+2024-02-16,Ana Souza,Consultoria BI,Curitiba,Agronegócio,3,4602.5,13807.5,Pago
+2024-02-16,Ana Souza,Dashboard Personalizado,Campinas,Agronegócio,2,7859.16,15718.33,Pago
+2024-02-17,Fernanda Reis,Implantação Power BI,Curitiba,Indústria,1,10756.17,10756.17,Pago
+2024-02-17,Fernanda Reis,Dashboard Personalizado,São Paulo,Varejo,1,7891.34,7891.34,Pago
+2024-02-20,Juliana Costa,Consultoria BI,São Paulo,Varejo,1,4617.27,4617.27,Pago
+2024-02-21,Ana Souza,Suporte Mensal,Porto Alegre,Educação,1,2110.92,2110.92,Pago
+2024-02-21,Fernanda Reis,Dashboard Personalizado,Campinas,Financeiro,3,9409.23,28227.68,Pago
+2024-02-28,Ana Souza,Dashboard Personalizado,Belo Horizonte,Indústria,2,8899.56,17799.12,Cancelado
+2024-02-28,Juliana Costa,Treinamento Power BI,Curitiba,Financeiro,3,3216.07,9648.21,Cancelado
+2024-02-28,Juliana Costa,Suporte Mensal,Curitiba,Saúde,3,1547.51,4642.52,Pago
+2024-02-28,Fernanda Reis,Implantação Power BI,São Paulo,Educação,2,14556.32,29112.64,Pago
+2024-03-01,Marcos Alves,Implantação Power BI,Campinas,Saúde,3,12549.37,37648.12,Cancelado
+2024-03-02,Carlos Lima,Suporte Mensal,Curitiba,Indústria,2,2175.19,4350.37,Pendente
+2024-03-03,Marcos Alves,Treinamento Power BI,Curitiba,Indústria,1,3119.42,3119.42,Pago
+2024-03-03,Fernanda Reis,Dashboard Personalizado,Campinas,Financeiro,2,9646.41,19292.82,Pago
+2024-03-03,Ana Souza,Implantação Power BI,Porto Alegre,Indústria,1,12750.5,12750.5,Pendente
+2024-03-04,Ana Souza,Dashboard Personalizado,Rio de Janeiro,Saúde,2,10170.0,20340.0,Cancelado
+2024-03-04,Marcos Alves,Treinamento Power BI,Porto Alegre,Agronegócio,2,2987.76,5975.52,Pendente
+2024-03-05,Juliana Costa,Treinamento Power BI,Campinas,Educação,3,2493.65,7480.94,Cancelado
+2024-03-05,Carlos Lima,Consultoria BI,Campinas,Saúde,2,4765.04,9530.08,Pago
+2024-03-05,Marcos Alves,Implantação Power BI,Rio de Janeiro,Indústria,3,12668.33,38004.98,Pago
+2024-03-06,Juliana Costa,Suporte Mensal,Curitiba,Indústria,3,1725.0,5175.0,Pendente
+2024-03-06,Marcos Alves,Consultoria BI,Belo Horizonte,Saúde,2,3850.91,7701.82,Cancelado
+2024-03-06,Ana Souza,Implantação Power BI,São Paulo,Saúde,3,14056.71,42170.13,Pendente
+2024-03-07,Ana Souza,Suporte Mensal,São Paulo,Saúde,3,1901.74,5705.21,Pendente
+2024-03-08,Marcos Alves,Treinamento Power BI,Campinas,Financeiro,1,3397.26,3397.26,Pago
+2024-03-08,Marcos Alves,Suporte Mensal,Porto Alegre,Educação,3,2116.42,6349.25,Pago
+2024-03-09,Marcos Alves,Suporte Mensal,Belo Horizonte,Indústria,2,1859.94,3719.88,Pago
+2024-03-11,Juliana Costa,Consultoria BI,Curitiba,Financeiro,2,3872.72,7745.44,Pendente
+2024-03-12,Juliana Costa,Implantação Power BI,Rio de Janeiro,Saúde,2,11660.36,23320.73,Cancelado
+2024-03-12,Juliana Costa,Consultoria BI,São Paulo,Educação,1,5536.29,5536.29,Pendente
+2024-03-12,Fernanda Reis,Suporte Mensal,Curitiba,Agronegócio,2,1827.08,3654.17,Cancelado
+2024-03-13,Ana Souza,Consultoria BI,Curitiba,Saúde,3,5090.43,15271.3,Cancelado
+2024-03-14,Fernanda Reis,Treinamento Power BI,Campinas,Saúde,1,2995.13,2995.13,Pendente
+2024-03-14,Marcos Alves,Treinamento Power BI,São Paulo,Educação,1,3274.09,3274.09,Pago
+2024-03-14,Marcos Alves,Suporte Mensal,São Paulo,Indústria,1,2003.48,2003.48,Pago
+2024-03-14,Juliana Costa,Implantação Power BI,Rio de Janeiro,Financeiro,1,10757.15,10757.15,Cancelado
+2024-03-15,Carlos Lima,Dashboard Personalizado,Rio de Janeiro,Educação,1,8047.99,8047.99,Pago
+2024-03-17,Fernanda Reis,Suporte Mensal,São Paulo,Indústria,3,1535.01,4605.02,Pago
+2024-03-17,Marcos Alves,Treinamento Power BI,Curitiba,Educação,1,3341.42,3341.42,Pendente
+2024-03-18,Carlos Lima,Dashboard Personalizado,Porto Alegre,Educação,2,8700.1,17400.19,Cancelado
+2024-03-19,Ana Souza,Implantação Power BI,Porto Alegre,Financeiro,3,10774.05,32322.16,Pago
+2024-03-19,Juliana Costa,Implantação Power BI,Campinas,Educação,3,14212.7,42638.11,Pago
+2024-03-19,Carlos Lima,Implantação Power BI,Campinas,Educação,3,13152.03,39456.1,Pago
+2024-03-20,Carlos Lima,Dashboard Personalizado,São Paulo,Saúde,2,8331.36,16662.72,Cancelado
+2024-03-20,Fernanda Reis,Implantação Power BI,São Paulo,Varejo,1,10948.77,10948.77,Pendente
+2024-03-20,Juliana Costa,Implantação Power BI,São Paulo,Agronegócio,2,11965.04,23930.07,Pago
+2024-03-20,Carlos Lima,Implantação Power BI,Curitiba,Financeiro,1,11912.42,11912.42,Pago
+2024-03-20,Fernanda Reis,Consultoria BI,São Paulo,Educação,3,4851.11,14553.33,Cancelado
+2024-03-23,Juliana Costa,Suporte Mensal,São Paulo,Educação,2,1858.37,3716.74,Pago
+2024-03-24,Fernanda Reis,Dashboard Personalizado,Campinas,Indústria,3,9080.1,27240.29,Pago
+2024-03-26,Ana Souza,Treinamento Power BI,São Paulo,Saúde,2,2425.67,4851.34,Pago
+2024-03-28,Juliana Costa,Suporte Mensal,Porto Alegre,Indústria,1,1870.9,1870.9,Pago
+2024-03-29,Carlos Lima,Suporte Mensal,Campinas,Varejo,3,1657.52,4972.56,Pago
+2024-03-30,Ana Souza,Consultoria BI,Curitiba,Varejo,1,5228.78,5228.78,Pago
+2024-04-02,Fernanda Reis,Treinamento Power BI,Belo Horizonte,Saúde,1,3331.13,3331.13,Pago
+2024-04-02,Fernanda Reis,Implantação Power BI,Porto Alegre,Indústria,1,13540.94,13540.94,Pago
+2024-04-03,Marcos Alves,Treinamento Power BI,Curitiba,Varejo,3,3146.34,9439.02,Pendente
+2024-04-05,Juliana Costa,Dashboard Personalizado,Porto Alegre,Educação,2,7515.18,15030.36,Pago
+2024-04-07,Fernanda Reis,Treinamento Power BI,São Paulo,Agronegócio,2,2901.47,5802.94,Pago
+2024-04-07,Ana Souza,Treinamento Power BI,Campinas,Financeiro,3,2602.56,7807.68,Pago
+2024-04-10,Fernanda Reis,Suporte Mensal,Curitiba,Agronegócio,3,1548.25,4644.76,Pago
+2024-04-11,Ana Souza,Dashboard Personalizado,Rio de Janeiro,Indústria,2,8988.89,17977.78,Pago
+2024-04-14,Ana Souza,Treinamento Power BI,Porto Alegre,Saúde,3,3225.09,9675.26,Pago
+2024-04-18,Ana Souza,Treinamento Power BI,Curitiba,Indústria,3,2514.25,7542.75,Pago
+2024-04-18,Fernanda Reis,Implantação Power BI,Belo Horizonte,Saúde,1,14481.82,14481.82,Pago
+2024-04-20,Marcos Alves,Dashboard Personalizado,Curitiba,Financeiro,2,7771.75,15543.49,Pago
+2024-04-20,Ana Souza,Suporte Mensal,Belo Horizonte,Financeiro,2,1705.67,3411.35,Pago
+2024-04-21,Ana Souza,Suporte Mensal,São Paulo,Financeiro,3,1615.08,4845.24,Pago
+2024-04-22,Carlos Lima,Dashboard Personalizado,Belo Horizonte,Financeiro,1,9846.29,9846.29,Pendente
+2024-04-22,Juliana Costa,Dashboard Personalizado,São Paulo,Varejo,2,8561.53,17123.06,Pago
+2024-04-25,Carlos Lima,Treinamento Power BI,Porto Alegre,Varejo,2,2860.47,5720.95,Cancelado
+2024-04-26,Ana Souza,Implantação Power BI,Campinas,Indústria,2,10876.44,21752.87,Pendente
+2024-04-26,Carlos Lima,Treinamento Power BI,Belo Horizonte,Varejo,1,2503.26,2503.26,Cancelado
+2024-04-27,Juliana Costa,Suporte Mensal,Campinas,Saúde,2,2102.26,4204.53,Pago
+2024-04-27,Carlos Lima,Suporte Mensal,São Paulo,Varejo,1,1652.78,1652.78,Pago
+2024-04-29,Ana Souza,Dashboard Personalizado,Belo Horizonte,Agronegócio,3,8475.46,25426.39,Pendente
+2024-04-30,Ana Souza,Consultoria BI,Porto Alegre,Saúde,2,3949.85,7899.7,Pago
+2024-04-30,Ana Souza,Dashboard Personalizado,Rio de Janeiro,Indústria,3,8284.82,24854.45,Cancelado
+2024-05-02,Juliana Costa,Dashboard Personalizado,Porto Alegre,Varejo,2,8963.56,17927.13,Pago
+2024-05-02,Marcos Alves,Implantação Power BI,Campinas,Varejo,1,11708.91,11708.91,Cancelado
+2024-05-04,Juliana Costa,Dashboard Personalizado,Rio de Janeiro,Agronegócio,2,10385.97,20771.94,Pendente
+2024-05-04,Juliana Costa,Consultoria BI,Curitiba,Agronegócio,1,3952.02,3952.02,Pago
+2024-05-05,Marcos Alves,Implantação Power BI,Porto Alegre,Saúde,1,14195.72,14195.72,Cancelado
+2024-05-06,Ana Souza,Implantação Power BI,Belo Horizonte,Varejo,3,13116.22,39348.65,Cancelado
+2024-05-07,Fernanda Reis,Consultoria BI,Rio de Janeiro,Financeiro,3,5316.73,15950.18,Cancelado
+2024-05-07,Carlos Lima,Implantação Power BI,Rio de Janeiro,Financeiro,2,10668.83,21337.65,Pago
+2024-05-09,Ana Souza,Treinamento Power BI,Porto Alegre,Educação,3,2943.0,8829.0,Pago
+2024-05-09,Fernanda Reis,Consultoria BI,São Paulo,Saúde,3,5427.01,16281.03,Pago
+2024-05-10,Carlos Lima,Treinamento Power BI,Campinas,Financeiro,1,3154.92,3154.92,Pago
+2024-05-12,Fernanda Reis,Implantação Power BI,Rio de Janeiro,Financeiro,2,13260.28,26520.55,Pago
+2024-05-12,Fernanda Reis,Treinamento Power BI,Rio de Janeiro,Agronegócio,3,3089.41,9268.24,Pago
+2024-05-13,Carlos Lima,Dashboard Personalizado,Rio de Janeiro,Saúde,1,7400.72,7400.72,Pendente
+2024-05-13,Fernanda Reis,Dashboard Personalizado,Curitiba,Financeiro,2,7311.43,14622.85,Pago
+2024-05-15,Carlos Lima,Dashboard Personalizado,Campinas,Agronegócio,2,7853.51,15707.01,Pago
+2024-05-15,Juliana Costa,Treinamento Power BI,Campinas,Financeiro,2,2481.12,4962.25,Pago
+2024-05-15,Ana Souza,Suporte Mensal,Porto Alegre,Saúde,3,2005.19,6015.57,Pago
+2024-05-16,Marcos Alves,Consultoria BI,São Paulo,Financeiro,1,4888.5,4888.5,Cancelado
+2024-05-17,Carlos Lima,Consultoria BI,Rio de Janeiro,Agronegócio,1,4152.28,4152.28,Pago
+2024-05-18,Juliana Costa,Suporte Mensal,Porto Alegre,Financeiro,3,1738.62,5215.86,Pendente
+2024-05-19,Marcos Alves,Dashboard Personalizado,Porto Alegre,Indústria,3,10576.21,31728.63,Pendente
+2024-05-19,Ana Souza,Implantação Power BI,Rio de Janeiro,Agronegócio,1,10982.09,10982.09,Cancelado
+2024-05-19,Juliana Costa,Dashboard Personalizado,Curitiba,Financeiro,1,9613.45,9613.45,Pago
+2024-05-20,Ana Souza,Consultoria BI,Rio de Janeiro,Saúde,3,4235.28,12705.85,Pago
+2024-05-21,Fernanda Reis,Dashboard Personalizado,Rio de Janeiro,Saúde,2,9510.26,19020.52,Pago
+2024-05-22,Fernanda Reis,Consultoria BI,Belo Horizonte,Agronegócio,2,5268.95,10537.91,Cancelado
+2024-05-22,Carlos Lima,Consultoria BI,Campinas,Financeiro,2,4105.83,8211.67,Pago
+2024-05-24,Juliana Costa,Dashboard Personalizado,Rio de Janeiro,Financeiro,1,10208.07,10208.07,Pago
+2024-05-24,Juliana Costa,Dashboard Personalizado,Campinas,Agronegócio,2,9304.85,18609.7,Pendente
+2024-05-27,Carlos Lima,Suporte Mensal,São Paulo,Financeiro,3,1693.08,5079.23,Pago
+2024-05-28,Ana Souza,Consultoria BI,Belo Horizonte,Educação,1,4523.71,4523.71,Cancelado
+2024-05-28,Carlos Lima,Treinamento Power BI,Campinas,Agronegócio,2,3093.92,6187.84,Pago
+2024-05-28,Juliana Costa,Dashboard Personalizado,Porto Alegre,Indústria,2,8176.78,16353.55,Pago
+2024-05-29,Carlos Lima,Consultoria BI,Belo Horizonte,Agronegócio,3,5522.24,16566.71,Pago
+2024-05-30,Ana Souza,Implantação Power BI,Curitiba,Varejo,2,12975.74,25951.49,Pago
+2024-05-31,Marcos Alves,Treinamento Power BI,Rio de Janeiro,Agronegócio,1,2421.83,2421.83,Pendente
+2024-05-31,Ana Souza,Treinamento Power BI,Porto Alegre,Varejo,1,3362.62,3362.62,Pago
+2024-05-31,Ana Souza,Treinamento Power BI,Campinas,Financeiro,1,3153.85,3153.85,Pago
+2024-05-31,Marcos Alves,Treinamento Power BI,Curitiba,Indústria,3,2507.09,7521.27,Pago
+2024-06-01,Marcos Alves,Dashboard Personalizado,Rio de Janeiro,Agronegócio,3,9133.34,27400.03,Cancelado
+2024-06-01,Juliana Costa,Suporte Mensal,Campinas,Financeiro,2,2078.37,4156.73,Pago
+2024-06-01,Carlos Lima,Treinamento Power BI,Campinas,Agronegócio,2,2799.57,5599.13,Pendente
+2024-06-02,Fernanda Reis,Dashboard Personalizado,Porto Alegre,Saúde,2,9418.59,18837.17,Pago
+2024-06-03,Juliana Costa,Suporte Mensal,São Paulo,Saúde,3,1670.97,5012.91,Pago
+2024-06-04,Ana Souza,Dashboard Personalizado,São Paulo,Indústria,1,8047.3,8047.3,Cancelado
+2024-06-05,Carlos Lima,Treinamento Power BI,São Paulo,Agronegócio,2,3284.33,6568.67,Pago
+2024-06-08,Fernanda Reis,Dashboard Personalizado,Porto Alegre,Educação,1,7382.93,7382.93,Pendente
+2024-06-09,Juliana Costa,Dashboard Personalizado,Rio de Janeiro,Varejo,3,9850.63,29551.9,Pendente
+2024-06-09,Fernanda Reis,Consultoria BI,Rio de Janeiro,Saúde,2,5292.83,10585.66,Pendente
+2024-06-10,Ana Souza,Consultoria BI,Porto Alegre,Educação,1,5570.25,5570.25,Cancelado
+2024-06-11,Marcos Alves,Consultoria BI,Porto Alegre,Agronegócio,2,5256.34,10512.67,Cancelado
+2024-06-12,Marcos Alves,Implantação Power BI,Rio de Janeiro,Agronegócio,3,14306.21,42918.63,Pago
+2024-06-12,Fernanda Reis,Consultoria BI,Curitiba,Indústria,2,5281.85,10563.7,Pago
+2024-06-14,Fernanda Reis,Implantação Power BI,Rio de Janeiro,Saúde,2,10576.59,21153.18,Pago
+2024-06-15,Juliana Costa,Dashboard Personalizado,Rio de Janeiro,Saúde,3,9480.91,28442.72,Pendente
+2024-06-16,Marcos Alves,Suporte Mensal,São Paulo,Agronegócio,3,2138.31,6414.93,Pago
+2024-06-19,Juliana Costa,Consultoria BI,Campinas,Indústria,2,4395.46,8790.92,Pago
+2024-06-19,Carlos Lima,Dashboard Personalizado,Belo Horizonte,Indústria,2,8180.18,16360.35,Pago
+2024-06-20,Marcos Alves,Treinamento Power BI,Campinas,Educação,2,3100.48,6200.97,Cancelado
+2024-06-21,Juliana Costa,Treinamento Power BI,Campinas,Indústria,3,3434.44,10303.32,Pago
+2024-06-21,Juliana Costa,Suporte Mensal,Rio de Janeiro,Financeiro,2,2036.63,4073.27,Cancelado
+2024-06-22,Marcos Alves,Implantação Power BI,Campinas,Financeiro,3,11575.4,34726.19,Pago
+2024-06-22,Fernanda Reis,Implantação Power BI,Curitiba,Varejo,3,11547.71,34643.12,Cancelado
+2024-06-24,Fernanda Reis,Implantação Power BI,Rio de Janeiro,Financeiro,1,10624.76,10624.76,Pago
+2024-06-24,Fernanda Reis,Suporte Mensal,Campinas,Agronegócio,3,1987.27,5961.8,Pago
+2024-06-26,Fernanda Reis,Implantação Power BI,Curitiba,Agronegócio,1,11051.71,11051.71,Pago
+2024-06-29,Fernanda Reis,Suporte Mensal,Campinas,Indústria,3,1800.42,5401.26,Pendente
+2024-07-02,Juliana Costa,Treinamento Power BI,Belo Horizonte,Varejo,3,2445.05,7335.16,Pendente
+2024-07-02,Marcos Alves,Treinamento Power BI,Curitiba,Indústria,2,3041.8,6083.6,Cancelado
+2024-07-03,Juliana Costa,Consultoria BI,Rio de Janeiro,Educação,3,5088.54,15265.62,Cancelado
+2024-07-04,Juliana Costa,Suporte Mensal,São Paulo,Financeiro,1,1646.37,1646.37,Cancelado
+2024-07-04,Carlos Lima,Dashboard Personalizado,Porto Alegre,Indústria,3,7486.73,22460.2,Cancelado
+2024-07-05,Fernanda Reis,Implantação Power BI,Belo Horizonte,Indústria,3,10298.81,30896.42,Pago
+2024-07-06,Juliana Costa,Suporte Mensal,Belo Horizonte,Indústria,2,2195.78,4391.56,Pago
+2024-07-06,Fernanda Reis,Dashboard Personalizado,São Paulo,Financeiro,3,8067.29,24201.86,Pago
+2024-07-08,Fernanda Reis,Treinamento Power BI,Rio de Janeiro,Educação,1,2484.92,2484.92,Pago
+2024-07-08,Juliana Costa,Suporte Mensal,São Paulo,Saúde,2,2044.51,4089.02,Pago
+2024-07-09,Ana Souza,Dashboard Personalizado,Rio de Janeiro,Indústria,2,7958.79,15917.58,Cancelado
+2024-07-10,Marcos Alves,Implantação Power BI,São Paulo,Saúde,1,11609.24,11609.24,Pago
+2024-07-13,Marcos Alves,Consultoria BI,Belo Horizonte,Financeiro,2,4716.32,9432.64,Pago
+2024-07-13,Juliana Costa,Implantação Power BI,Rio de Janeiro,Saúde,3,13699.23,41097.7,Pendente
+2024-07-13,Marcos Alves,Treinamento Power BI,Belo Horizonte,Varejo,1,2500.84,2500.84,Pendente
+2024-07-14,Carlos Lima,Dashboard Personalizado,Porto Alegre,Varejo,3,9374.84,28124.52,Pago
+2024-07-14,Ana Souza,Treinamento Power BI,Campinas,Indústria,1,3295.29,3295.29,Pendente
+2024-07-14,Marcos Alves,Dashboard Personalizado,Porto Alegre,Varejo,1,10208.4,10208.4,Cancelado
+2024-07-16,Fernanda Reis,Treinamento Power BI,Campinas,Agronegócio,1,3333.27,3333.27,Cancelado
+2024-07-17,Fernanda Reis,Dashboard Personalizado,Campinas,Agronegócio,2,7541.55,15083.1,Cancelado
+2024-07-17,Fernanda Reis,Dashboard Personalizado,Campinas,Educação,3,8226.13,24678.38,Pago
+2024-07-18,Marcos Alves,Treinamento Power BI,Campinas,Indústria,1,2933.05,2933.05,Pendente
+2024-07-22,Fernanda Reis,Treinamento Power BI,Curitiba,Varejo,3,3077.64,9232.91,Pago
+2024-07-23,Carlos Lima,Implantação Power BI,Campinas,Agronegócio,1,11788.31,11788.31,Pago
+2024-07-23,Ana Souza,Dashboard Personalizado,Belo Horizonte,Financeiro,3,9090.69,27272.08,Pago
+2024-07-25,Juliana Costa,Treinamento Power BI,Rio de Janeiro,Financeiro,1,3468.4,3468.4,Pendente
+2024-07-25,Juliana Costa,Treinamento Power BI,Curitiba,Indústria,3,3171.68,9515.04,Pendente
+2024-07-27,Marcos Alves,Dashboard Personalizado,Curitiba,Financeiro,1,7639.93,7639.93,Pago
+2024-07-27,Ana Souza,Treinamento Power BI,Campinas,Saúde,2,3388.47,6776.94,Pago
+2024-07-28,Carlos Lima,Implantação Power BI,Campinas,Agronegócio,2,13218.93,26437.85,Pendente
+2024-08-01,Ana Souza,Implantação Power BI,Porto Alegre,Financeiro,3,12962.28,38886.83,Pago
+2024-08-01,Juliana Costa,Suporte Mensal,Curitiba,Financeiro,2,2070.63,4141.25,Pago
+2024-08-01,Juliana Costa,Suporte Mensal,Rio de Janeiro,Indústria,2,1897.74,3795.48,Cancelado
+2024-08-03,Ana Souza,Suporte Mensal,Campinas,Varejo,2,1590.58,3181.16,Pendente
+2024-08-04,Ana Souza,Suporte Mensal,Porto Alegre,Financeiro,2,1739.68,3479.37,Cancelado
+2024-08-04,Fernanda Reis,Consultoria BI,Curitiba,Saúde,1,5468.83,5468.83,Pago
+2024-08-05,Fernanda Reis,Suporte Mensal,Belo Horizonte,Agronegócio,2,1918.33,3836.65,Pendente
+2024-08-05,Carlos Lima,Implantação Power BI,Campinas,Educação,1,10505.08,10505.08,Pendente
+2024-08-06,Ana Souza,Suporte Mensal,São Paulo,Varejo,3,1764.24,5292.71,Pago
+2024-08-07,Marcos Alves,Suporte Mensal,Campinas,Agronegócio,2,1945.37,3890.74,Pendente
+2024-08-10,Ana Souza,Treinamento Power BI,São Paulo,Agronegócio,2,2783.41,5566.83,Pendente
+2024-08-12,Marcos Alves,Consultoria BI,Belo Horizonte,Agronegócio,2,5607.1,11214.19,Pago
+2024-08-13,Juliana Costa,Consultoria BI,Belo Horizonte,Agronegócio,1,4438.92,4438.92,Pago
+2024-08-13,Carlos Lima,Treinamento Power BI,São Paulo,Saúde,1,3296.18,3296.18,Pendente
+2024-08-13,Fernanda Reis,Consultoria BI,Curitiba,Saúde,2,5421.98,10843.97,Pago
+2024-08-13,Marcos Alves,Dashboard Personalizado,Porto Alegre,Indústria,3,8075.83,24227.48,Pago
+2024-08-14,Marcos Alves,Dashboard Personalizado,Rio de Janeiro,Financeiro,2,8126.69,16253.38,Pendente
+2024-08-15,Fernanda Reis,Implantação Power BI,São Paulo,Agronegócio,3,13238.89,39716.66,Pago
+2024-08-15,Ana Souza,Consultoria BI,Belo Horizonte,Educação,1,3841.55,3841.55,Pago
+2024-08-16,Fernanda Reis,Suporte Mensal,São Paulo,Educação,1,1581.26,1581.26,Pago
+2024-08-18,Fernanda Reis,Dashboard Personalizado,Rio de Janeiro,Financeiro,3,8644.2,25932.59,Pago
+2024-08-18,Ana Souza,Treinamento Power BI,Porto Alegre,Varejo,3,2782.63,8347.89,Pendente
+2024-08-20,Fernanda Reis,Consultoria BI,Rio de Janeiro,Indústria,1,4350.86,4350.86,Cancelado
+2024-08-20,Carlos Lima,Consultoria BI,Campinas,Agronegócio,1,4453.58,4453.58,Cancelado
+2024-08-20,Carlos Lima,Consultoria BI,Belo Horizonte,Agronegócio,3,4406.77,13220.3,Cancelado
+2024-08-21,Juliana Costa,Implantação Power BI,Rio de Janeiro,Indústria,3,10395.5,31186.49,Pago
+2024-08-21,Carlos Lima,Treinamento Power BI,Campinas,Indústria,2,3195.6,6391.2,Cancelado
+2024-08-22,Carlos Lima,Implantação Power BI,Rio de Janeiro,Saúde,1,12860.9,12860.9,Pago
+2024-08-24,Ana Souza,Treinamento Power BI,Porto Alegre,Saúde,3,2695.68,8087.03,Pago
+2024-08-25,Marcos Alves,Treinamento Power BI,São Paulo,Indústria,1,2973.21,2973.21,Pago
+2024-08-26,Ana Souza,Dashboard Personalizado,Curitiba,Financeiro,3,9650.03,28950.1,Pendente
+2024-08-26,Fernanda Reis,Treinamento Power BI,Curitiba,Educação,3,2949.6,8848.8,Cancelado
+2024-08-28,Fernanda Reis,Implantação Power BI,Campinas,Educação,2,12687.98,25375.96,Pendente
+2024-08-29,Marcos Alves,Implantação Power BI,Porto Alegre,Educação,1,14088.54,14088.54,Pago
+2024-08-30,Ana Souza,Implantação Power BI,Belo Horizonte,Educação,2,11920.64,23841.27,Cancelado
+2024-08-30,Marcos Alves,Implantação Power BI,Porto Alegre,Indústria,1,14835.03,14835.03,Pago
+2024-08-31,Fernanda Reis,Consultoria BI,Belo Horizonte,Agronegócio,2,4678.51,9357.03,Pago
+2024-08-31,Carlos Lima,Suporte Mensal,São Paulo,Financeiro,2,2225.99,4451.98,Pago
+2024-09-01,Marcos Alves,Suporte Mensal,Belo Horizonte,Indústria,3,1973.41,5920.24,Pendente
+2024-09-02,Carlos Lima,Implantação Power BI,São Paulo,Agronegócio,1,10651.11,10651.11,Pendente
+2024-09-02,Marcos Alves,Dashboard Personalizado,Campinas,Varejo,3,9286.86,27860.58,Pendente
+2024-09-02,Juliana Costa,Treinamento Power BI,Campinas,Saúde,1,3080.96,3080.96,Pago
+2024-09-02,Carlos Lima,Implantação Power BI,Rio de Janeiro,Saúde,3,13361.73,40085.19,Cancelado
+2024-09-02,Marcos Alves,Suporte Mensal,Porto Alegre,Educação,1,1762.53,1762.53,Pago
+2024-09-04,Carlos Lima,Implantação Power BI,Belo Horizonte,Educação,1,10417.46,10417.46,Pago
+2024-09-04,Carlos Lima,Consultoria BI,Porto Alegre,Educação,3,4138.86,12416.58,Pago
+2024-09-08,Marcos Alves,Consultoria BI,Belo Horizonte,Financeiro,2,4337.71,8675.43,Pago
+2024-09-08,Ana Souza,Consultoria BI,Rio de Janeiro,Saúde,2,4593.79,9187.59,Pendente
+2024-09-09,Juliana Costa,Dashboard Personalizado,Rio de Janeiro,Financeiro,3,10422.56,31267.68,Cancelado
+2024-09-11,Carlos Lima,Dashboard Personalizado,Curitiba,Financeiro,3,9370.87,28112.61,Cancelado
+2024-09-12,Marcos Alves,Treinamento Power BI,São Paulo,Varejo,3,3206.44,9619.33,Pendente
+2024-09-15,Juliana Costa,Dashboard Personalizado,Belo Horizonte,Educação,1,9801.68,9801.68,Cancelado
+2024-09-15,Juliana Costa,Dashboard Personalizado,Porto Alegre,Indústria,2,9705.66,19411.32,Pendente
+2024-09-16,Ana Souza,Treinamento Power BI,Porto Alegre,Financeiro,2,2636.25,5272.51,Pago
+2024-09-17,Carlos Lima,Consultoria BI,São Paulo,Educação,3,5017.54,15052.62,Pago
+2024-09-17,Ana Souza,Implantação Power BI,Curitiba,Indústria,2,13685.24,27370.48,Pago
+2024-09-19,Ana Souza,Implantação Power BI,Curitiba,Educação,1,10809.89,10809.89,Pendente
+2024-09-20,Juliana Costa,Dashboard Personalizado,Porto Alegre,Saúde,3,7347.2,22041.61,Pago
+2024-09-23,Marcos Alves,Implantação Power BI,Belo Horizonte,Saúde,3,13926.78,41780.35,Pago
+2024-09-24,Fernanda Reis,Treinamento Power BI,Curitiba,Agronegócio,1,2992.32,2992.32,Pago
+2024-09-25,Juliana Costa,Suporte Mensal,Curitiba,Saúde,2,2144.17,4288.33,Pago
+2024-09-26,Fernanda Reis,Consultoria BI,Rio de Janeiro,Indústria,2,3999.92,7999.84,Cancelado
+2024-09-27,Juliana Costa,Treinamento Power BI,São Paulo,Agronegócio,3,3065.28,9195.83,Pago
+2024-09-28,Juliana Costa,Suporte Mensal,Belo Horizonte,Financeiro,3,1764.13,5292.4,Cancelado
+2024-09-28,Marcos Alves,Implantação Power BI,Porto Alegre,Financeiro,1,12927.88,12927.88,Pago
+2024-09-30,Juliana Costa,Consultoria BI,Campinas,Indústria,3,5557.77,16673.3,Cancelado
+2024-10-01,Fernanda Reis,Treinamento Power BI,São Paulo,Saúde,1,2536.23,2536.23,Pendente
+2024-10-01,Ana Souza,Consultoria BI,Porto Alegre,Indústria,3,4580.28,13740.84,Pago
+2024-10-02,Fernanda Reis,Implantação Power BI,Porto Alegre,Varejo,3,10226.51,30679.52,Pago
+2024-10-02,Fernanda Reis,Dashboard Personalizado,Belo Horizonte,Educação,2,8032.97,16065.94,Cancelado
+2024-10-03,Fernanda Reis,Consultoria BI,Curitiba,Agronegócio,3,3881.57,11644.72,Pago
+2024-10-03,Carlos Lima,Consultoria BI,Curitiba,Indústria,3,4674.99,14024.96,Pendente
+2024-10-04,Marcos Alves,Dashboard Personalizado,São Paulo,Indústria,2,7400.03,14800.06,Cancelado
+2024-10-05,Juliana Costa,Dashboard Personalizado,Porto Alegre,Indústria,2,8183.92,16367.84,Pago
+2024-10-06,Fernanda Reis,Treinamento Power BI,São Paulo,Varejo,3,2414.16,7242.48,Pago
+2024-10-07,Carlos Lima,Suporte Mensal,Rio de Janeiro,Educação,1,1759.66,1759.66,Pago
+2024-10-10,Juliana Costa,Consultoria BI,São Paulo,Saúde,1,5079.63,5079.63,Pago
+2024-10-10,Fernanda Reis,Implantação Power BI,Belo Horizonte,Educação,3,14625.0,43874.99,Pago
+2024-10-10,Juliana Costa,Implantação Power BI,Curitiba,Indústria,1,14506.13,14506.13,Pago
+2024-10-10,Ana Souza,Treinamento Power BI,Curitiba,Saúde,1,3049.65,3049.65,Pago
+2024-10-11,Juliana Costa,Consultoria BI,Rio de Janeiro,Educação,3,4228.68,12686.05,Pago
+2024-10-11,Marcos Alves,Implantação Power BI,Campinas,Agronegócio,2,14057.63,28115.25,Pendente
+2024-10-12,Ana Souza,Implantação Power BI,Porto Alegre,Indústria,3,11692.72,35078.15,Pendente
+2024-10-13,Fernanda Reis,Dashboard Personalizado,Curitiba,Agronegócio,1,9118.12,9118.12,Cancelado
+2024-10-14,Juliana Costa,Implantação Power BI,Porto Alegre,Indústria,3,13073.56,39220.68,Pendente
+2024-10-14,Fernanda Reis,Implantação Power BI,Rio de Janeiro,Saúde,2,11908.67,23817.34,Pago
+2024-10-16,Juliana Costa,Consultoria BI,Campinas,Financeiro,1,4521.12,4521.12,Pago
+2024-10-16,Carlos Lima,Implantação Power BI,Curitiba,Varejo,2,13452.31,26904.62,Cancelado
+2024-10-16,Fernanda Reis,Consultoria BI,Rio de Janeiro,Financeiro,1,5184.99,5184.99,Pago
+2024-10-17,Ana Souza,Consultoria BI,Campinas,Financeiro,3,4184.41,12553.24,Pago
+2024-10-17,Juliana Costa,Consultoria BI,Curitiba,Agronegócio,2,5210.99,10421.98,Pendente
+2024-10-18,Marcos Alves,Treinamento Power BI,São Paulo,Financeiro,3,2787.27,8361.8,Pago
+2024-10-19,Carlos Lima,Dashboard Personalizado,Campinas,Agronegócio,3,9434.88,28304.63,Pago
+2024-10-20,Marcos Alves,Suporte Mensal,Porto Alegre,Saúde,2,1892.26,3784.52,Pago
+2024-10-20,Carlos Lima,Consultoria BI,São Paulo,Financeiro,2,4136.76,8273.53,Pago
+2024-10-21,Marcos Alves,Dashboard Personalizado,Campinas,Indústria,3,8072.59,24217.78,Pago
+2024-10-22,Fernanda Reis,Suporte Mensal,Curitiba,Saúde,3,1797.85,5393.56,Pago
+2024-10-22,Carlos Lima,Treinamento Power BI,Curitiba,Financeiro,2,3449.45,6898.9,Cancelado
+2024-10-22,Ana Souza,Implantação Power BI,São Paulo,Agronegócio,2,13085.35,26170.7,Pago
+2024-10-23,Carlos Lima,Suporte Mensal,Campinas,Varejo,2,1883.96,3767.93,Cancelado
+2024-10-24,Ana Souza,Treinamento Power BI,São Paulo,Educação,2,3485.31,6970.63,Pendente
+2024-10-25,Ana Souza,Dashboard Personalizado,Rio de Janeiro,Financeiro,2,7304.12,14608.25,Pago
+2024-10-25,Fernanda Reis,Dashboard Personalizado,Curitiba,Indústria,2,9009.17,18018.34,Cancelado
+2024-10-25,Ana Souza,Treinamento Power BI,Rio de Janeiro,Financeiro,3,2489.57,7468.72,Pago
+2024-10-27,Marcos Alves,Implantação Power BI,Campinas,Varejo,3,14506.64,43519.91,Pendente
+2024-10-28,Ana Souza,Treinamento Power BI,Curitiba,Saúde,1,3099.08,3099.08,Pago
+2024-10-28,Juliana Costa,Suporte Mensal,Belo Horizonte,Varejo,2,1758.96,3517.93,Pago
+2024-10-28,Juliana Costa,Dashboard Personalizado,São Paulo,Financeiro,3,9681.34,29044.01,Pago
+2024-10-29,Marcos Alves,Implantação Power BI,Rio de Janeiro,Financeiro,2,11835.86,23671.71,Pago
+2024-10-29,Ana Souza,Treinamento Power BI,Porto Alegre,Varejo,2,3089.55,6179.11,Cancelado
+2024-10-30,Fernanda Reis,Treinamento Power BI,Curitiba,Varejo,2,2560.57,5121.14,Pago
+2024-10-31,Marcos Alves,Suporte Mensal,Porto Alegre,Educação,3,2198.39,6595.17,Cancelado
+2024-11-01,Fernanda Reis,Consultoria BI,Curitiba,Indústria,2,5421.76,10843.51,Cancelado
+2024-11-01,Ana Souza,Suporte Mensal,Campinas,Educação,1,1891.09,1891.09,Cancelado
+2024-11-02,Marcos Alves,Consultoria BI,Campinas,Saúde,2,5557.41,11114.81,Cancelado
+2024-11-03,Fernanda Reis,Treinamento Power BI,São Paulo,Educação,1,2645.72,2645.72,Cancelado
+2024-11-05,Fernanda Reis,Implantação Power BI,São Paulo,Agronegócio,2,13755.69,27511.38,Pendente
+2024-11-05,Ana Souza,Dashboard Personalizado,Campinas,Varejo,3,7242.21,21726.63,Cancelado
+2024-11-06,Carlos Lima,Dashboard Personalizado,Rio de Janeiro,Agronegócio,3,9239.21,27717.63,Pago
+2024-11-06,Carlos Lima,Treinamento Power BI,Campinas,Indústria,2,3429.14,6858.28,Cancelado
+2024-11-06,Marcos Alves,Treinamento Power BI,Campinas,Educação,3,2485.78,7457.33,Pendente
+2024-11-08,Marcos Alves,Treinamento Power BI,Curitiba,Educação,2,2536.89,5073.79,Pago
+2024-11-10,Juliana Costa,Consultoria BI,Belo Horizonte,Financeiro,1,5442.4,5442.4,Pago
+2024-11-10,Ana Souza,Suporte Mensal,Rio de Janeiro,Agronegócio,1,1997.74,1997.74,Pago
+2024-11-10,Carlos Lima,Implantação Power BI,Curitiba,Financeiro,2,10287.46,20574.93,Pago
+2024-11-13,Marcos Alves,Implantação Power BI,Rio de Janeiro,Indústria,2,10279.62,20559.24,Pago
+2024-11-13,Fernanda Reis,Suporte Mensal,Rio de Janeiro,Indústria,3,1929.74,5789.23,Pago
+2024-11-13,Juliana Costa,Consultoria BI,Campinas,Varejo,3,4224.79,12674.38,Pago
+2024-11-14,Ana Souza,Suporte Mensal,Porto Alegre,Educação,3,1906.37,5719.1,Cancelado
+2024-11-14,Marcos Alves,Dashboard Personalizado,São Paulo,Indústria,3,8172.4,24517.19,Pago
+2024-11-16,Juliana Costa,Treinamento Power BI,Rio de Janeiro,Indústria,2,2790.33,5580.65,Pago
+2024-11-17,Fernanda Reis,Suporte Mensal,Campinas,Saúde,1,1654.77,1654.77,Pendente
+2024-11-18,Carlos Lima,Suporte Mensal,Campinas,Indústria,3,1702.48,5107.45,Pago
+2024-11-18,Carlos Lima,Suporte Mensal,Campinas,Agronegócio,2,1978.77,3957.55,Pendente
+2024-11-21,Fernanda Reis,Suporte Mensal,Campinas,Saúde,2,2216.83,4433.66,Pago
+2024-11-22,Marcos Alves,Treinamento Power BI,Belo Horizonte,Agronegócio,2,2953.54,5907.09,Pago
+2024-11-22,Carlos Lima,Treinamento Power BI,Campinas,Financeiro,3,2430.65,7291.96,Cancelado
+2024-11-23,Marcos Alves,Dashboard Personalizado,Rio de Janeiro,Saúde,2,8537.75,17075.5,Pago
+2024-11-23,Ana Souza,Consultoria BI,Campinas,Saúde,1,4499.17,4499.17,Pago
+2024-11-25,Juliana Costa,Dashboard Personalizado,Belo Horizonte,Agronegócio,2,10389.57,20779.15,Pendente
+2024-11-26,Ana Souza,Treinamento Power BI,Porto Alegre,Saúde,1,2759.71,2759.71,Pago
+2024-11-26,Carlos Lima,Implantação Power BI,São Paulo,Indústria,1,13298.27,13298.27,Pago
+2024-11-26,Juliana Costa,Dashboard Personalizado,Belo Horizonte,Varejo,2,10407.93,20815.85,Pago
+2024-11-27,Ana Souza,Treinamento Power BI,Belo Horizonte,Varejo,3,2811.31,8433.93,Cancelado
+2024-11-29,Fernanda Reis,Implantação Power BI,Belo Horizonte,Saúde,1,13011.72,13011.72,Pago
+2024-11-29,Fernanda Reis,Dashboard Personalizado,Curitiba,Educação,3,8247.99,24743.96,Pendente
+2024-11-29,Juliana Costa,Implantação Power BI,Porto Alegre,Educação,2,12162.97,24325.95,Pago
+2024-11-29,Carlos Lima,Suporte Mensal,Rio de Janeiro,Agronegócio,1,2206.97,2206.97,Pago
+2024-11-30,Ana Souza,Treinamento Power BI,Curitiba,Educação,3,3203.28,9609.84,Pendente
+2024-12-01,Marcos Alves,Treinamento Power BI,Porto Alegre,Financeiro,3,2462.93,7388.79,Pago
+2024-12-01,Carlos Lima,Dashboard Personalizado,Rio de Janeiro,Agronegócio,2,7801.28,15602.55,Pago
+2024-12-01,Marcos Alves,Dashboard Personalizado,Campinas,Financeiro,2,7848.58,15697.15,Pago
+2024-12-02,Juliana Costa,Consultoria BI,Campinas,Saúde,1,4433.39,4433.39,Pago
+2024-12-03,Fernanda Reis,Dashboard Personalizado,Porto Alegre,Financeiro,3,9973.55,29920.65,Pendente
+2024-12-04,Juliana Costa,Dashboard Personalizado,São Paulo,Indústria,1,9777.09,9777.09,Pago
+2024-12-05,Fernanda Reis,Suporte Mensal,Porto Alegre,Educação,2,2172.64,4345.28,Cancelado
+2024-12-05,Juliana Costa,Dashboard Personalizado,São Paulo,Financeiro,2,9297.52,18595.04,Pago
+2024-12-06,Carlos Lima,Implantação Power BI,Campinas,Educação,3,13478.43,40435.3,Pago
+2024-12-08,Carlos Lima,Dashboard Personalizado,Rio de Janeiro,Indústria,3,10451.21,31353.63,Cancelado
+2024-12-08,Carlos Lima,Consultoria BI,Curitiba,Financeiro,1,5555.14,5555.14,Pago
+2024-12-09,Carlos Lima,Consultoria BI,Belo Horizonte,Financeiro,2,3891.4,7782.79,Pendente
+2024-12-10,Juliana Costa,Treinamento Power BI,São Paulo,Indústria,3,2936.92,8810.75,Pendente
+2024-12-11,Marcos Alves,Suporte Mensal,Belo Horizonte,Agronegócio,3,2131.42,6394.25,Pendente
+2024-12-12,Juliana Costa,Dashboard Personalizado,Belo Horizonte,Varejo,1,8102.0,8102.0,Pendente
+2024-12-13,Ana Souza,Implantação Power BI,Campinas,Agronegócio,2,10860.1,21720.2,Pago
+2024-12-13,Marcos Alves,Suporte Mensal,Rio de Janeiro,Agronegócio,1,2230.57,2230.57,Pago
+2024-12-13,Fernanda Reis,Suporte Mensal,São Paulo,Varejo,1,1583.68,1583.68,Pago
+2024-12-15,Juliana Costa,Consultoria BI,Campinas,Indústria,3,5570.84,16712.51,Cancelado
+2024-12-15,Fernanda Reis,Treinamento Power BI,Campinas,Varejo,3,2985.51,8956.53,Cancelado
+2024-12-16,Fernanda Reis,Dashboard Personalizado,Porto Alegre,Varejo,1,7756.89,7756.89,Pago
+2024-12-16,Ana Souza,Treinamento Power BI,Curitiba,Varejo,2,2617.82,5235.64,Pago
+2024-12-17,Fernanda Reis,Suporte Mensal,Campinas,Varejo,2,1602.56,3205.12,Pago
+2024-12-19,Fernanda Reis,Dashboard Personalizado,Porto Alegre,Varejo,3,10021.84,30065.53,Pago
+2024-12-19,Ana Souza,Implantação Power BI,Campinas,Saúde,1,12169.84,12169.84,Cancelado
+2024-12-19,Ana Souza,Treinamento Power BI,Porto Alegre,Varejo,2,2598.67,5197.34,Pago
+2024-12-22,Juliana Costa,Consultoria BI,Porto Alegre,Financeiro,2,5194.41,10388.83,Pago
+2024-12-22,Marcos Alves,Suporte Mensal,Curitiba,Indústria,1,1554.76,1554.76,Pago
+2024-12-26,Juliana Costa,Treinamento Power BI,Campinas,Educação,3,3382.21,10146.62,Pago
