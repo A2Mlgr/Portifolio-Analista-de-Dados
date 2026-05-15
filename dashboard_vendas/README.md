@@ -1,4 +1,4 @@
-# Dashboard de Vendas — Portfólio ROQT
+# Dashboard de Vendas
 
 ## Arquivos incluídos
 
